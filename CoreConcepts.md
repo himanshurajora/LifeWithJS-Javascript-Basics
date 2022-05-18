@@ -1,4 +1,4 @@
-// The Core concepts of Javascript
+##  The Core concepts of Javascript
 1. Hello World
 2. Variables
 3. Data Types
